@@ -21,7 +21,7 @@ The `GradeCalculator` program is a basic tool written in Java that allows a stud
 - Java Development Kit (JDK) installed on your system.
 ### Installation
 1. Clone the repository:
-   https://github.com/MylHere/GradeCalculator
+   https://github.com/MylHere/CODSOFT-Internship/tree/main/Grade-Calculator
 2. Compile the Java source code:
 javac GradeCalculator.java
 ## Usage
