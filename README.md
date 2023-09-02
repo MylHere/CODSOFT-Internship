@@ -17,10 +17,13 @@ Welcome to my CODSOFT Internship Repository! Here, you'll find the projects I've
 ### ATM System
 
 - **Description**: The ATM System is a Java-based simulation of an Automated Teller Machine. It includes features like PIN validation, withdrawal, deposit, and balance inquiry, as well as security measures such as card blocking after multiple unsuccessful attempts.
-- **Files**: 
-  - [ATM.java](ATMSystem/ATM.java)
-  - [UserBankAccount.java](ATMSystem/UserBankAccount.java)
-  - [ATMSystem.java](ATMSystem/ATMSystem.java)
+- **Files**:
+
+  - [ATMSYSTEM.java](ATMSYSTEM/ATMSYSTEM.java)
+    Which further have 3 files in it:
+    1.ATM.java
+    2.UserBankAccount.java
+    3.ATMSystem.java
 
 ## Getting Started
 
